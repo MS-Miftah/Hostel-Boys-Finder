@@ -97,6 +97,4 @@ footer {
     text-align: center;
     justify-content: center;
     display: flex;
-    position: absolute;
-    bottom: 0;
 }
