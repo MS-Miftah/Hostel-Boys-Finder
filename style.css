@@ -97,6 +97,6 @@ footer {
     text-align: center;
     justify-content: center;
     display: flex;
-    position: fixed;
+    position: absolute;
     bottom: 0;
 }
